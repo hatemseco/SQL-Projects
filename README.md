@@ -25,13 +25,30 @@ Each project is stored in its own folder and includes:
 - Clear problem statements and insights
 
 ### 📌 Current Projects
-- **E-Commerce Customer & Order Analysis**
-  - Customer behavior analysis
-  - Order trends and performance
-  - Revenue and KPI calculations
-  - Relational joins across multiple tables
+* **E-Commerce Customer & Order Analysis**
+  
+  -Customer behavior analysis
+  
+  -Order trends and performance
+  
+  -Revenue and KPI calculations
+  
+  -Relational joins across multiple tables
+  
+* **Marketing Funnel Analytics (SQLite)**
+  
+  -Funnel analysis: Visit → Signup → Purchase
+  
+  -Conversion rate calculations between funnel stages
+  
+  -Revenue analysis by marketing channel
+  
+  -KPI summary table for dashboard-ready metrics
+  
+  -Use of CTEs, aggregations, and analytical views
 
-*(More projects will be added over time.)*
+
+                                              *(More projects will be added over time.)*
 
 ---
 
